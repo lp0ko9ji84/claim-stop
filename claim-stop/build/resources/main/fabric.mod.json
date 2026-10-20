@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "claim-stop",
+	"version": "1.0.0",
+	"name": "ClaimStop",
+	"description": "監聽聊天訊息，偵測到進入他人領地（或指定關鍵句）時自動停止當前動作，並可發送自訂指令。",
+	"authors": [
+		"F隐秘的㕑师🍴"
+	],
+	"contact": {},
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.claimstop.ClaimStopClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
