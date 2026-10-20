@@ -1,4 +1,4 @@
-https://github.com/lp0ko9ji84/claim-stop/blob/main/README
+
 # ClaimStop — Automatic Action Hault / Command Execution for Land Claims
 
 > **Author**: F-HiddenChef (F隐秘的㕑师🍴) | **Environment**: Client-side | **Loader**: Fabric
